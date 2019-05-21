@@ -1,0 +1,3 @@
+'Este archivo fue reescrito desde la terminal de python.'
+'Para la practica de manipulacion de archivos.'
+'Bye!'
